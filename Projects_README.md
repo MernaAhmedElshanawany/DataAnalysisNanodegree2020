@@ -7,9 +7,10 @@
 * The Goal: The goal is to identify general trends concerning the global temperatures over time weather increasing or decreasing temperatures or no effect through time. 
             It also to identify any interesting trends in my city's temperature (Alexandria) over time. 
 
-* Tools used: SQL : To withdraw data from the data set. 
+* Tools used: 
+    SQL -> To withdraw data from the data set. 
 
-    Microsoft Excel : To draw the charts needed to identify trends and perform the needed statistics (moving ranges) to work with the data.
+    Microsoft Excel -> To draw the charts needed to identify trends and perform the needed statistics (moving ranges) to work with the data.
             
 ## Project2: No-show appointements(Kaggle competition):
 
@@ -17,9 +18,11 @@
 
 * The Goal: The goal is to identify interesting trends in the phenomenon of No-shows in the clinic and find answers for our questions of interest. 
 
-* Tools used: Python : To display our dataset and perform data analysis techniques through different functions and commands. 
-                       It was also used to draw visuals to identify interesting trends in the dataset. 
-              Jupyter Notebook : To display all the work done using python on the data set and display the visuals in order to find the needed conclusions.
+* Tools used: 
+    Python -> To display our dataset and perform data analysis techniques through different functions and commands. 
+             It was also used to draw visuals to identify interesting trends in the dataset. 
+              
+    Jupyter Notebook -> To display all the work done using python on the data set and display the visuals in order to find the needed conclusions.
 
 ## Project3: Hypothesis A/B testing:
 
@@ -28,12 +31,16 @@ It is the results of a trial made on some customers who recieved the new design 
 
 * The Goal: The goal here is to test whether the customers prefer the new version of our site to the old one or not. It is a hypothesis A/B testing project.
 
-* Tools used: Python : To display our dataset and perform data analysis techniques through different functions and commands. 
-                       It was also used to draw visuals to identify statistical trends in the dataset like the p-value. 
-              Jupyter Notebook : To display all the work done using python on the data set and display the visuals in order to find the needed conclusions.
+* Tools used: 
+    Python -> To display our dataset and perform data analysis techniques through different functions and commands. 
+             It was also used to draw visuals to identify statistical trends in the dataset like the p-value. 
+              
+    Jupyter Notebook -> To display all the work done using python on the data set and display the visuals in order to find the needed conclusions.
 
-* Approaches used: Regression : Used through the hypothesis testing process to identify the correlation between certain factors and others. 
-                   Probability : To test whether the null hypothesis is true or we fail to reject the null hypothesis.
+* Approaches used: 
+    Regression -> Used through the hypothesis testing process to identify the correlation between certain factors and others. 
+                   
+    Probability -> To test whether the null hypothesis is true or we fail to reject the null hypothesis.
 
 ## Project4: WeRateDogs Twitter account Data Wrangling:
 
@@ -43,10 +50,13 @@ It is the results of a trial made on some customers who recieved the new design 
 * The Goal: The goal is to wrangle this data set in order to be clean and ready for analysis and drawing conclusions. 
             The main focus here is to perform detailed data wrangling techniques.
 
-* Tools used: Python : To display our dataset and perform data wrangling techniques through different functions and commands. 
-                       It was also used to draw visuals to identify interesting trends and conclusions in the dataset. 
-              Jupyter Notebook : To display all the work done using python on the data set and display the visuals in order to find the needed conclusions. 
-              Microsoft Excel : Used to identify certain quality issues with the data set that needs cleaning. 
+* Tools used: 
+    Python -> To display our dataset and perform data wrangling techniques through different functions and commands. 
+              It was also used to draw visuals to identify interesting trends and conclusions in the dataset. 
+              
+    Jupyter Notebook -> To display all the work done using python on the data set and display the visuals in order to find the needed conclusions. 
+              
+    Microsoft Excel -> Used to identify certain quality issues with the data set that needs cleaning. 
 
 ## Project5: PISA 2012 survey:
 
@@ -57,9 +67,12 @@ It is the results of a trial made on some customers who recieved the new design 
 
 * The Goal: The goal here is to identify trends and correlations between different factors that impact the students performance and skills as per the PISA evaluation.
 
-* Tools used: Python : To display our dataset and perform data analysis techniques through different functions and commands. 
-                       It was also used to draw visuals to identify interesting trends and relations in the dataset. 
-              Jupyter Notebook : To display all the work done using python on the data set and display the visuals in order to find the needed conclusions. 
-              Microsoft excel : To go through the data set and identify some needed information that couldn't be displayed through the jupyter notebook.
+* Tools used: 
+    Python -> To display our dataset and perform data analysis techniques through different functions and commands. 
+              It was also used to draw visuals to identify interesting trends and relations in the dataset. 
+              
+    Jupyter Notebook -> To display all the work done using python on the data set and display the visuals in order to find the needed conclusions. 
+              
+    Microsoft excel -> To go through the data set and identify some needed information that couldn't be displayed through the jupyter notebook.
 
 
