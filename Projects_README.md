@@ -8,7 +8,8 @@
             It also to identify any interesting trends in my city's temperature (Alexandria) over time. 
 
 * Tools used: SQL : To withdraw data from the data set. 
-              Microsoft Excel : To draw the charts needed to identify trends and perform the needed statistics (moving ranges) to work with the data.
+
+    Microsoft Excel : To draw the charts needed to identify trends and perform the needed statistics (moving ranges) to work with the data.
             
 ## Project2: No-show appointements(Kaggle competition):
 
